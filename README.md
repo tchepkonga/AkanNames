@@ -32,7 +32,11 @@ https://tchepkonga.github.io/AkanNames/
 
 ## Installation / Setup instruction
 * Open Terminal 
+<<<<<<< HEAD
 * git clone ``https://tchepkonga.github.io/AkanNames/``
+=======
+* git clone ```https://tchepkonga.github.io/AkanNames/```
+>>>>>>> 7d3153de185c924a3e25fff45d36d35b852196d4
 * cd AkanNames
 
 ####  License
