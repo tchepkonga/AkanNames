@@ -2,6 +2,7 @@ body{
     background-position: center center;
     background-repeat: no-repeat;
     background-size:cover;
+    
    }
 
    h1 {
@@ -126,4 +127,22 @@ body{
     text-align: center;
     border: 2px solid darkgoldenrod;
     border-radius: 10px;
+  }
+  * {
+    box-sizing: border-box;
+  }
+  .bg {
+    background: url("images/coast.jpg") no-repeat center center;
+    position: absolute;
+    top: -30px;
+    left: -30px;
+    width: calc(100vw + 60px);
+    height: calc(100vh + 60px);
+    z-index: -1;
+    filter: blur(0px);
+  }
+  
+  .loading-text {
+    font-size: 50px;
+    color: #fff;
   }

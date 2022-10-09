@@ -21,16 +21,18 @@ Akan names are derived from Ghanian culture. Frequently in Ghana, children are g
 * [HTML5]
 * [CSS]
 * [JavaScript]
-
+##
+image blurred images loading from 0 to 100% at the top
 
 ## live link
 You can view the live application by following this link
+
 https://tchepkonga.github.io/AkanNames/
 
 
 ## Installation / Setup instruction
 * Open Terminal 
-* git clone ```https://github.com/tchepkonga/AkanNames.git```
+* git clone ``https://tchepkonga.github.io/AkanNames/``
 * cd AkanNames
 
 ####  License
